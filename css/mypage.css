@@ -10,31 +10,31 @@
   border: solid 5px rgb(209, 204, 196)
   }
 
-body{
-  background-color:ghostwhite;
+  body{
+    background-color:ghostwhite;
+    }
+  
+  p{
+    font-family:Monaco;
+    }
+  
+  h2{
+    font-family:Monaco;
+    }
+  
+  h3{
+    font-family:Monaco;
+    font-size: large;
+    font-weight: bolder;
   }
-
-p{
-  font-family:Monaco;
-  }
-
-h2{
-  font-family:Monaco;
-  }
-
-h3{
-  font-family:Monaco;
-  font-size: large;
-  font-weight: bolder;
-}
-
-ul{
-  font-family:Monaco;
-  }
-
-.major-section{
-  padding: 10px;
-  margin-bottom: 10px;
-  border: solid 1px #888;
-  background-color:floralwhite;
-  }
+  
+  ul{
+    font-family:Monaco;
+    }
+  
+  .major-section{
+    padding: 10px;
+    margin-bottom: 10px;
+    border: solid 1px #888;
+    background-color:floralwhite;
+    }

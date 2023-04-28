@@ -1,6 +1,15 @@
-// index.js - purpose and description here
-// Author: Your Name
-// Date:
+// Word Guesser; Word guessing game
+// Author: Alejandro Hernandez
+// Date: 10/26/23
+
+// Print out blank spaces, player tries, and hint
+  // Test player input for matching letters
+    // Print out matching letters
+    // Lower player tries for incorrect guesses, list incorrect letters
+  // Test for completed word
+    // If completed, print out winning screen
+  // If player out of attempts, print out losing screen
+// Repeat steps
 
 // Constants
 
