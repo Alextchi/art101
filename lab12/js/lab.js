@@ -24,5 +24,5 @@ $("#button").click(function() {
     var name = $("#input").val();
     var house = sortingHat(name);
 
-    $("#output").append("<p class='result'> The Sorting Hat has sorted you into" + house + ".</p>")
+    $("#output").append("<p class='result'> The Sorting Hat has sorted you into " + house + ".</p>")
 })
